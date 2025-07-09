@@ -1,80 +1,72 @@
-🔴 Red Team Operations & Advanced Cybersecurity Research
+<!-- README.md -->
 
+<h1 align="center" style="color:#d72631; font-weight: 900; letter-spacing: 3px;">
+  🔴 Yenn503 — Red Team Specialist & Cybersecurity Analyst
+</h1>
 
-Pioneering defensive strategies through offensive insights.
+<p align="center" style="font-size:18px; color:#555;">
+  Malware Analysis | Reverse Engineering | Red Team Ops | Cybersecurity Student  
+</p>
 
-Deep diving into Malware Analysis, Reverse Engineering, and Red Team Operations.
+---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-red?style=for-the-badge&logo=ghost" alt="Active Status" />
+  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue?style=for-the-badge&logo=security" alt="Role" />
+  <img src="https://img.shields.io/badge/Learning-OSCP-orange?style=for-the-badge&logo=hackthebox" alt="Learning OSCP" />
+</p>
 
+---
 
-https://github.com/yourusername">https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-https://img.shields.io/badge/Status-Actively%20Engaged-red?style=for-the-badge&logo=fireship" alt="Status">
-https://img.shields.io/badge/Learning-OSCP%20Certified-orange?style=for-the-badge&logo=kali-linux" alt="OSCP Learning">
+<p align="center">
+  <img src="https://media.giphy.com/media/JqDe8PeHMvKSc/giphy.gif" width="300" alt="Red Team Animation" style="border-radius: 15px; box-shadow: 0 0 15px #d72631;" />
+</p>
 
-About Me ✨
-Hey there! I'm a passionate Cybersecurity Analyst and a dedicated university student, fully immersed in the dynamic world of offensive security. My drive stems from a profound curiosity: understanding how systems can be compromised allows me to build more robust defenses.
+---
 
-My primary areas of expertise and passion include:
+## 🧑‍💻 About Me
 
-Red Team Operations: Crafting and executing sophisticated adversarial simulations to rigorously test and fortify an organization's security posture. I believe the best defense comes from understanding the most advanced attacks.
+- 🎓 Part-time Cybersecurity Analyst & University Student  
+- 🔴 Passionate about Red Team Operations, Malware Analysis & Reverse Engineering  
+- 🛠️ Researching advanced malware behaviors and exploit development  
+- 🎯 Focused on ethical hacking, threat hunting & incident response  
+- 📚 Pursuing OSCP certification to sharpen offensive security skills  
 
-Malware Analysis: Dissecting the most intricate malicious software. I love uncovering its behavior, identifying its capabilities, and extracting critical indicators of compromise (IOCs) that empower proactive defense.
+---
 
-Reverse Engineering: Peeling back the layers of compiled code, assembly by assembly, to unveil hidden functionalities, identify elusive vulnerabilities, and comprehend proprietary algorithms. It's like solving a high-stakes puzzle!
+## 🛠️ Skills & Tools
 
-I thrive on hands-on research, constantly exploring advanced malware techniques and cutting-edge exploitation methods. My ultimate goal is to contribute meaningfully to a safer digital ecosystem through ethical hacking and timely, actionable threat intelligence. I'm currently on an intensive journey to earn my OSCP certification, aiming to solidify and expand my offensive security arsenal.
+| Offensive Security | Malware Analysis      | Reverse Engineering    | Programming        |
+|--------------------|----------------------|-----------------------|--------------------|
+| Red Teaming        | Static & Dynamic Analysis | IDA Pro, Ghidra       | Python             |
+| Exploit Development| Sandbox Evasion      | x64dbg, Radare2       | C, C++             |
+| Penetration Testing| Malware Unpacking    | Binary Diffing        | Bash, PowerShell   |
 
-My Expertise & Toolkit 🛠️
-My diverse skill set and comprehensive toolkit enable me to tackle complex cybersecurity challenges from multiple angles, bridging the gap between offensive capabilities and defensive strategies.
+---
 
-Category
+## 🔭 Current Projects & Research
 
-Key Skills & Tools
+<details>
+  <summary><strong>Click to expand 🔍</strong></summary>
+  
+- Developing custom evasive payloads & C2 frameworks  
+- Analyzing latest malware families and documenting TTPs  
+- Writing blog posts on reverse engineering & threat intelligence  
+- Automating behavioral malware analysis with Python scripts  
+</details>
 
-Offensive Security
+---
 
-Red Teaming, Adversary Emulation, Exploit Development, Penetration Testing
+## 📫 Connect with Me
 
-Malware Analysis
+<p align="center" style="font-size:20px;">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="margin: 0 15px; color:#0e76a8; text-decoration:none;">LinkedIn</a>  
+  <a href="https://twitter.com/your-twitter" target="_blank" style="margin: 0 15px; color:#1da1f2; text-decoration:none;">Twitter</a>  
+  <a href="https://yourblog.com" target="_blank" style="margin: 0 15px; color:#d72631; text-decoration:none;">Blog</a>
+</p>
 
-Static & Dynamic Analysis, Sandbox Evasion, Malware Unpacking, Memory Forensics
+---
 
-Reverse Engineering
-
-IDA Pro, Ghidra, x64dbg, Radare2, Binary Diffing, Debugging
-
-Programming
-
-Python (for automation & tooling), C/C++, Bash, PowerShell
-
-Operating Systems
-
-Windows (Internals), Linux, macOS
-
-Networking
-
-TCP/IP, Network Protocol Analysis, Wireshark, Nmap
-
-
-Export to Sheets
-What I'm Currently Building & Researching 🚀
-I'm constantly engaged in projects that push my boundaries and contribute to the broader cybersecurity community. Here's a glimpse into my ongoing work:
-
-Red Team Innovations & Threat Research
-Connect & Collaborate 🤝
-I'm always excited to connect with fellow cybersecurity professionals, researchers, and aspiring individuals. Whether it's to discuss new ideas, collaborate on an interesting project, or simply share insights, feel free to reach out!
-
-
-https://www.linkedin.com/in/your-linkedin" target="_blank">https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-https://twitter.com/your-twitter" target="_blank">https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-https://yourblog.com" target="_blank">https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-
-
-“The best way to predict the future is to create it.” — My approach to cybersecurity is proactive: understanding how to break systems is the most effective way to build truly resilient defenses. Stay curious, stay ethical.
-
-
-https://github.com/Yenn503/Yenn503/blob/main/assets/redteam.gif" alt="Red Team Operations Animation" width="450" />
-
-
-https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourusername">https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourusername&countColor=%23263759" alt="Visitors Count">
+<p align="center" style="font-style: italic; color: #777; font-size: 0.9em;">
+  “<strong>Offense informs defense.</strong>” — Stay sharp, stay ethical.
+</p>
