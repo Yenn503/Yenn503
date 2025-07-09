@@ -8,37 +8,29 @@
   Malware Analysis | Reverse Engineering | Red Team Ops | Cybersecurity Student  
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-red?style=for-the-badge&logo=ghost" alt="Active Status" />
-  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue?style=for-the-badge&logo=security" alt="Role" />
-  <img src="https://img.shields.io/badge/Learning-OSCP-orange?style=for-the-badge&logo=hackthebox" alt="Learning OSCP" />
+  <img src="https://img.shields.io/badge/Status-Active-red?style=for-the-badge&logo=ghost" />
+  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Learning-OSCP-orange?style=for-the-badge&logo=hackthebox" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o0dnkxbjhzNjlvMG9saWl0ajA3YW53b2Q5eWt0aWJ2Y2hvMW94MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="300" alt="Red Team Animation" style="border-radius: 15px; box-shadow: 0 0 15px #d72631;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o0dnkxbjhzNjlvMG9saWl0ajA3YW53b2Q5eWt0aWJ2Y2hvMW94MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="300" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB1348&background=FFFFFF00&width=435&lines=CyberSecurity+Analyst;Malware+Researcher;University+Student" alt="Typing SVG" /></a>
-
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3C3C&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst+%7C+Student;Red+Team+Ops+%7C+Malware+Researcher;Reverse+Engineer+%7C+Exploit+Developer;Python%2C+C%2C+PowerShell+%7C+OSCP+in+Progress" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🛠️ Skills & Tools
 
 | Offensive Security | Malware Analysis      | Reverse Engineering    | Programming        |
-|--------------------|----------------------|-----------------------|--------------------|
+|--------------------|----------------------|-------------------------|--------------------|
 | Red Teaming        | Static & Dynamic Analysis | IDA Pro, Ghidra       | Python             |
-| Exploit Development| Sandbox Evasion      | x64dbg, Radare2       | C, C++             |
-| Penetration Testing| Malware Unpacking    | Binary Diffing        | Bash, PowerShell   |
-
----
+| Exploit Development| Sandbox Evasion      | x64dbg, Radare2         | C, C++             |
+| Penetration Testing| Malware Unpacking    | Binary Diffing          | Bash, PowerShell   |
 
 ## 🔭 Current Projects & Research
 
@@ -51,18 +43,20 @@
 - Automating behavioral malware analysis with Python scripts  
 </details>
 
----
-
 ## 📫 Connect with Me
 
-<p align="center" style="font-size:20px;">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="margin: 0 15px; color:#0e76a8; text-decoration:none;">LinkedIn</a>  
-  <a href="https://twitter.com/your-twitter" target="_blank" style="margin: 0 15px; color:#1da1f2; text-decoration:none;">Twitter</a>  
-  <a href="https://yourblog.com" target="_blank" style="margin: 0 15px; color:#d72631; text-decoration:none;">Blog</a>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://yourblog.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Visit-red?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
 </p>
 
----
-
 <p align="center" style="font-style: italic; color: #777; font-size: 0.9em;">
-  “<strong>Offense informs defense.</strong>” — Stay sharp, stay ethical.
+  <strong>“Offense informs defense.”</strong> — Stay sharp, stay ethical.
 </p>
