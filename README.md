@@ -26,11 +26,7 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%7C+Student;Red+Team+Ops+%7C+Exploit+Dev;Malware+Analysis+%7C+Reverse+Engineering;OSCP+in+progress+%7C+Python%2C+C%2C+PowerShell" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71347&width=435&lines=Red+Teamer+%7C+Malware+Researcher+Reverse+Engineer+%7C+Exploit+Developer+Cybersecurity+Analyst+%7C+Part-Time+Consultant+OSCP+in+Progress+%7C+University+Student" alt="Typing SVG" /></a>
 
 ---
 
