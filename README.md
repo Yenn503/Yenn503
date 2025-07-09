@@ -24,13 +24,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Part-time Cybersecurity Analyst & University Student  
-- 🔴 Passionate about Red Team Operations, Malware Analysis & Reverse Engineering  
-- 🛠️ Researching advanced malware behaviors and exploit development  
-- 🎯 Focused on ethical hacking, threat hunting & incident response  
-- 📚 Pursuing OSCP certification to sharpen offensive security skills  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%7C+Student;Red+Team+Ops+%7C+Exploit+Dev;Malware+Analysis+%7C+Reverse+Engineering;OSCP+in+progress+%7C+Python%2C+C%2C+PowerShell" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
