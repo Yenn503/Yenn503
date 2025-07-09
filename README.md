@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center" style="color:#d72631; font-weight: 900; letter-spacing: 3px;">
-  🔴 Yenn503 — Red Team Specialist & Cybersecurity Analyst
+  🔴 Lewis Desmond — Cybersecurity Analyst
 </h1>
 
 <p align="center" style="font-size:18px; color:#555;">
