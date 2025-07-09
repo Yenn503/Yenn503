@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/JqDe8PeHMvKSc/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o0dnkxbjhzNjlvMG9saWl0ajA3YW53b2Q5eWt0aWJ2Y2hvMW94MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif)" width="300" alt="Red Team Animation" style="border-radius: 15px; box-shadow: 0 0 15px #d72631;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o0dnkxbjhzNjlvMG9saWl0ajA3YW53b2Q5eWt0aWJ2Y2hvMW94MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="300" alt="Red Team Animation" style="border-radius: 15px; box-shadow: 0 0 15px #d72631;" />
 </p>
 
 ---
