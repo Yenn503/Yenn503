@@ -55,21 +55,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yenn503&show_icons=true&theme=radical&hide_border=true&title_color=FB1348&icon_color=FB1348&text_color=ffffff&bg_color=0d1117" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yenn503&theme=radical&hide_border=true&ring=FB1348&fire=FB1348&currStreakLabel=FB1348" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenn503&layout=compact&theme=radical&hide_border=true&title_color=FB1348&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yenn503&show_icons=true&theme=radical&hide_border=true&title_color=FB1348&icon_color=FB1348&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yenn503&theme=radical&hide_border=true&ring=FB1348&fire=FB1348&currStreakLabel=FB1348" width="48%" />
 </p>
 
----
-
-### 👁️ Visitors
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yenn503&style=flat-square&color=FB1348" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenn503&layout=compact&theme=radical&hide_border=true&title_color=FB1348&text_color=ffffff&bg_color=0d1117" width="50%" />
 </p>
 
 ---
