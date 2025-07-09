@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71347&width=435&lines=Red+Teamer+%7C+Malware+Researcher+Reverse+Engineer+%7C+Exploit+Developer+Cybersecurity+Analyst+%7C+Part-Time+Consultant+OSCP+in+Progress+%7C+University+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB1348&background=FFFFFF00&width=435&lines=CyberSecurity+Analyst;Malware+Researcher;University+Student" alt="Typing SVG" /></a>
 
 ---
 
