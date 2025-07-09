@@ -22,17 +22,17 @@
 
 - 🧠 Red Team TTPs, Payload Obfuscation, Exploit Dev  
 - 🐛 Malware Analysis, Static & Dynamic RE, Evasion Techniques  
-- 🔍 Ghidra, IDA Pro, x64dbg, Cutter, Binary Diffing  
-- 💻 Python, C/C++, Bash, PowerShell, AV/EDR Bypass  
+- 🔍 Practicing Ghidra, IDA Pro, x64dbg  
+- 💻 Python, C, Bash, PowerShell, AV/EDR Bypass research  
 
 ---
 
 ### 🚧 Projects & Research
 
-- 🧬 Building obfuscated loaders & custom C2s  
-- 🔓 RE'ing real-world malware & C2 protocols  
+- 🧬 Building obfuscated loaders for c2 and other frameworks  
+- 🔓 RE'ing real-world malware 
 - 🛠️ Writing technical blog posts & threat research  
-- ⚙️ Automating sandboxing & threat emulation  
+- ⚙️ sandboxing & threat emulation  
 
 ---
 
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/lewis-desmond-a7b00b204/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" />
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
