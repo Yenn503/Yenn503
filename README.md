@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-red?style=flat-square&logo=ghost" />
   <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue?style=flat-square&logo=security" />
-  <img src="https://img.shields.io/badge/Studying-OSCP-orange?style=flat-square&logo=hackthebox" />
 </p>
 
 <p align="center">
