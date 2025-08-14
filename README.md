@@ -28,6 +28,7 @@
 
 ### 🚧 Projects & Research
 
+- 💻 Building a Hub for Pentesting / exploitation / Cyber Assesments (Threat-Intel)
 - 🧬 Building obfuscated loaders for c2 and other frameworks  
 - 🔓 RE'ing real-world malware 
 - 🛠️ Writing technical blog posts & threat research  
