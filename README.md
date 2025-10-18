@@ -19,26 +19,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=Keep+Learning+to+Keep+Hacking;Red+Team+Ops+%7C+Exploit+Dev+%7C+Malware+Research;Think+like+an+attacker%2C+build+defenses" />
 </p>
 
----
-
-### 🧰 Skillset
-
-- 🧠 Red Team TTPs, Payload Obfuscation, Exploit Development  
-- 🐛 Malware Analysis, Static & Dynamic Reverse Engineering, Evasion Techniques  
-- 🔍 Practicing Ghidra, IDA Pro, x64dbg  
-- 💻 Python, C, Bash, PowerShell, AV/EDR research  
-
----
-
-### 🚧 Projects & Research
-
-- 💻 Working on red team projects (adversary emulation, lab exercises, purple-team collaboration)  
-- 🧬 Building obfuscated loaders and lab tooling for detection-testing and emulation research  
-- 🔓 Reverse engineering real-world samples
-- 🛠️ Writing technical blog posts & threat research  
-- ⚙️ Sandboxing & threat emulation for improving detection coverage
-
----
 
 ## 🕶️ About Me
 
@@ -84,9 +64,18 @@ const lewis = {
 
 - Offensive & Red Team: adversary emulation, post-exploitation workflows, lateral movement modelling  
 - Reverse Engineering: Ghidra, IDA Pro, x64dbg, static/dynamic analysis techniques  
-- Scripting & tooling: Python, PowerShell, Bash, C for tooling and automation  
-- Telemetry & Detection: Sysmon, Sigma, ELK, Splunk, threat hunting playbooks  
-- Labs & Infra: Docker labs, Windows & Linux sandboxing, BloodHound analysis
+- Scripting & tooling: Python, PowerShell, Bash, C for tooling and automation    
+- Labs & Infra: Docker labs, Windows & Linux sandboxing
+
+---
+
+### 🚧 Projects & Research
+
+- 💻 Working on red team projects (adversary emulation, lab exercises, purple-team collaboration)  
+- 🧬 Building obfuscated loaders and lab tooling for detection-testing and emulation research  
+- 🔓 Reverse engineering real-world samples
+- 🛠️ Writing technical blog posts & threat research  
+- ⚙️ Sandboxing & threat emulation for improving detection coverage
 
 ---
 
