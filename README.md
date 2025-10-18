@@ -45,7 +45,7 @@ const lewis = {
 # Reverse Engineering
 └─$ open sample.bin
 [+] Static analysis -> strings, imports, disassembly
-[+] Dynamic analysis -> sandbox, process tracing, syscalls
+[+] Dynamic analysis -> sandbox, process and function tracing, syscalls
 
 # Detection & Purple Teaming
 └─$ map-ttps --attack ATT&CK
