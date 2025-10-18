@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-red?style=flat-square&logo=ghost" />
-  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue?style=flat-square&logo=security" />
-</p>
-
-<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o0dnkxbjhzNjlvMG9saWl0ajA3YW53b2Q5eWt0aWJ2Y2hvMW94MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="270" />
 </p>
 
