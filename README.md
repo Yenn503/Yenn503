@@ -32,11 +32,6 @@ const lewis = {
   funFact: "I document my labs and post writeups — learning + sharing = growth."
 }
 ```
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=q9xye640hf6t1qbby3f2pe2e8&count=2" alt="recently played" />
-</p>
-
 ---
 
 ## 💻 What I Do
