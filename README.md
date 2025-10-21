@@ -21,40 +21,17 @@
 ```js
 const lewis = {
   alias: "Yenn503",
-  focus: ["Red Team Ops", "Exploit Dev", "Malware Research", "Reverse Engineering"],
+  focus: ["Red Team Ops", "Exploit Dev", "Malware Research", "Reverse Engineering", "AI malware research", "red team infrastructures"],
   code: ["Python", "C", "Bash", "PowerShell"],
-  tools: ["Ghidra", "IDA Pro", "x64dbg", "Sysinternals", "BloodHound"],
-  philosophy: "Learn by doing (in authorised labs), document everything, always follow ethics and scope.",
-  funFact: "I document my labs and post writeups — learning + sharing = growth."
+  tools: ["Ghidra", "IDA Pro", "x64dbg", "Sysinternals", "OpenSource Combinations"],
 }
 ```
 ---
 
-## 💻 What I Do
-
-```bash
-# Red Team & Research
-└─$ nmap -A target.lab
-[+] Open ports found: 22/ssh, 445/smb
-[+] Identify exposures for emulation (authorised lab use only)
-
-# Reverse Engineering
-└─$ open sample.bin
-[+] Static analysis -> strings, imports, disassembly
-[+] Dynamic analysis -> sandbox, process and function tracing, syscalls
-
-# Detection & Purple Teaming
-└─$ map-ttps --attack ATT&CK
-[+] Map TTPs to telemetry gaps
-[+] Develop detection hypotheses and test
-```
-
----
-
 ## 🛡️ Skills & Tools
 
-- Offensive & Red Team: adversary emulation, post-exploitation workflows, lateral movement modelling  
-- Reverse Engineering: Ghidra, IDA Pro, x64dbg, static/dynamic analysis techniques  
+- Offensive & Red Team: adversary emulation, post-exploitation workflows, lateral movement 
+- Reverse Engineering: Ghidra, IDA Pro, x64dbg, static/dynamic analysis techniques (also some new MCP tools, such as BinaryNinjaMCP I'd like to try) 
 - Scripting & tooling: Python, PowerShell, Bash, C for tooling and automation    
 - Labs & Infra: Docker labs, Windows & Linux sandboxing
 
@@ -62,11 +39,11 @@ const lewis = {
 
 ### 🚧 Projects & Research
 
-- 💻 Working on red team projects (adversary emulation, lab exercises, purple-team collaboration)  
-- 🧬 Building obfuscated loaders and lab tooling for detection-testing and emulation research  
-- 🔓 Reverse engineering real-world samples
-- 🛠️ Writing technical blog posts & threat research  
-- ⚙️ Sandboxing & threat emulation for improving detection coverage
+-  Working on red team projects (adversary emulation, lab exercises)  
+-  Building obfuscated loaders and lab tooling for detection-testing and emulation research  
+-  Reverse engineering real-world samples
+-  Writing technical blog posts about red team operations, also PoCs for AV/EDR bypass techniques
+-  Sandboxing & threat emulation for improving detection coverage
 
 ---
 
@@ -83,6 +60,5 @@ const lewis = {
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFEA)](https://www.linkedin.com/in/lewis-desmond-a7b00b204)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@lewisgames1995)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@jyenn3740)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Yenn503)
 
 ---
