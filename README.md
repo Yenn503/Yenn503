@@ -31,7 +31,7 @@ const lewis = {
 ## 🛡️ Skills & Tools
 
 - Offensive & Red Team: adversary emulation, post-exploitation workflows, lateral movement 
-- Reverse Engineering: Ghidra, IDA Pro, x64dbg, static/dynamic analysis techniques (also some new MCP tools, such as BinaryNinjaMCP I'd like to try) 
+- Reverse Engineering: Ghidra, IDA Pro, x64dbg, static/dynamic analysis techniques (also some new MCP tools, such as BinaryNinjaMCP, I'd like to try) 
 - Scripting & tooling: Python, PowerShell, Bash, C for tooling and automation    
 - Labs & Infra: Docker labs, Windows & Linux sandboxing
 
@@ -40,10 +40,9 @@ const lewis = {
 ### 🚧 Projects & Research
 
 -  Working on red team projects (adversary emulation, lab exercises)  
--  Building obfuscated loaders and lab tooling for detection-testing and emulation research  
+-  Building obfuscated loaders and working on my C2 infrastructures for persisted access, such as bouncing servers. 
 -  Reverse engineering real-world samples
 -  Writing technical blog posts about red team operations, also PoCs for AV/EDR bypass techniques
--  Sandboxing & threat emulation for improving detection coverage
 
 ---
 
