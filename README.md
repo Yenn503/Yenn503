@@ -15,35 +15,6 @@
 </p>
 
 
-
-## 🕶️ About Me
-
-```js
-const lewis = {
-  alias: "Yenn503",
-  focus: ["Red Team Ops", "Exploit Dev", "Malware Research", "Reverse Engineering", "AI malware research", "red team infrastructures"],
-  code: ["Python", "C", "Bash", "PowerShell"],
-  tools: ["Ghidra", "IDA Pro", "x64dbg", "Sysinternals", "OpenSource Combinations"],
-}
-```
----
-
-## 🛡️ Skills & Tools
-
-- Offensive & Red Team: adversary emulation, post-exploitation workflows, lateral movement 
-- Reverse Engineering: Ghidra, IDA Pro, x64dbg, static/dynamic analysis techniques (also some new MCP tools, such as BinaryNinjaMCP, I'd like to try) 
-- Scripting & tooling: Python, PowerShell, Bash, C for tooling and automation    
-- Labs & Infra: Docker labs, Windows & Linux sandboxing
-
----
-
-### 🚧 Projects & Research
-
--  Working on red team projects (adversary emulation, lab exercises)  
--  Building obfuscated loaders and working on my C2 infrastructures for persisted access, such as bouncing servers. 
--  Reverse engineering real-world samples
--  Writing technical blog posts about red team operations, also PoCs for AV/EDR bypass techniques
-
 ---
 
 ## 📊 Coding & GitHub Stats
