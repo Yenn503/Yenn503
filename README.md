@@ -15,18 +15,7 @@
 </p>
 
 
----
-
-## 📊 Coding & GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yenn503&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=00FFEA" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yenn503&theme=highcontrast&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenn503&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
-</div>
-
----
-
-## 🌐 Connect with me
+ith me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFEA)](https://www.linkedin.com/in/lewis-desmond-a7b00b204)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@lewisgames1995)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@jyenn3740)
