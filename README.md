@@ -15,7 +15,6 @@
 </p>
 
 
-ith me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFEA)](https://www.linkedin.com/in/lewis-desmond-a7b00b204)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@lewisgames1995)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@jyenn3740)
