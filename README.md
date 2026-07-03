@@ -2,7 +2,6 @@
 
 | Project | Description |
 |----------|-------------|
-| **[Kage](https://github.com/Yenn503/Kage)** | Malware development and research framework focused on payload delivery, execution, evasion, and runtime stealth techniques. |
 | **[AdPack](https://github.com/Yenn503/AdPack)** | Context-aware Active Directory attack orchestration engine that models domain state, tracks execution outcomes, and plans operations from observed evidence. |
 | **[Hexstrike-redteam](https://github.com/Yenn503/Hexstrike-redteam)** | Agentic offensive security framework that connects Hexstrike to BOAZ evasion. |
 | **[villager-hexstrike-AI](https://github.com/Yenn503/villager-hexstrike-AI)** | Experimental AI-native offensive operations platform combining autonomous task planning, tool orchestration, and multi-agent security workflows. |
